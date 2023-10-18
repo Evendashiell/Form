@@ -1,0 +1,26 @@
+body {
+    background-image: url('contact.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  .myForm {
+      border: 5px black;
+      border-radius: 20px;
+      background-color: rgba(239, 188, 221, 0.375);
+      margin: auto;
+      padding: 10px;
+      width: 700px;
+      height: 450px;
+  }
+  input {
+      width: 690px;
+      height: 20px;
+  }
+  button {
+      width: 690px;
+      height: 30px;
+      font: bold;
+      font-size: 20px;
+      color: aliceblue;
+  }
